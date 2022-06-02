@@ -1,4 +1,4 @@
-# ACME_ioet_excersice
+# ACME_ioet_exercise
 Exercise developed for the recruitment process of the vacancy for Python Developer at IOET
 
 
