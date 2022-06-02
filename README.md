@@ -39,9 +39,9 @@ If you will use the first option, make sure you have Jupyter installed. To get s
 For the second option, make sure that you have all files in one directory, next open your terminal application and go to the folder where you downloaded the files. Write `ioet_excercise_Lara.py` press Enter et voilà.
 
 To upload a different file, go to the end of either file and rename the file you are going to work with, for example: </br>
-`'''Change file name for another test''' </br>
-file = "input_data_ACME_3.txt" </br>
-data = open_txt_file(file) </br>
-result =is_overleap(data) </br>
-print(result)`
+`'''Change file name for another test'''` </br>
+`file = "input_data_ACME_3.txt"` </br>
+`data = open_txt_file(file)` </br>
+`result =is_overleap(data)` </br>
+`print(result)`
 
