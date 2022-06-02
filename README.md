@@ -1,5 +1,5 @@
 # ACME_ioet_excersice
-Exercise developed for the recruitment process of the vacant Python Developer at IOET
+Exercise developed for the recruitment process of the vacancy for Python Developer at IOET
 
 
 #### GOAL
@@ -31,17 +31,17 @@ For testing the excersice we have 3 files: </br>
 3. input_data_ACME_3.txt _file with minimum sets of data required_
 
 The solution was developed using Python v3.10.0 and there are two files to test the code:
-1. **ioet_exercise_Lara.ipynb**: It is a notebook from Jupyter that includes the functions already specifieds.
+1. **ioet_exercise_Lara.ipynb**: It is a notebook Jupyter that includes the functions already specifieds.
 2. **ioet_excercise_Lara.py**: It is a python script with the same code as the first
 
-If you will use the first option, make sure you have Jupyter installed. To get started, all you need to do is open up your terminal application and go to folder where you downloaded the files. Another way to work with this option is upload the corresponding files to [Google Colab](https://colab.research.google.com/?hl=es) and you can test online.
+If you will use the first option, make sure you have Jupyter installed. To get started, all you need to do is open up your terminal application start Jupyter enviroment go to folder where you downloaded the files and open the .ipynb file. Another way to work with this option is upload the corresponding files to [Google Colab](https://colab.research.google.com/?hl=es) and there you can test online.
 
-For the second option, make sure that you have all files in one directory, next open your terminal application and go to the folder where you downloaded the files. Write ´ioet_excercise_Lara.py´ and press Enter et voilà.
+For the second option, make sure that you have all files in one directory, next open your terminal application and go to the folder where you downloaded the files. Write `ioet_excercise_Lara.py` press Enter et voilà.
 
 To upload a different file, go to the end of either file and rename the file you are going to work with, for example:
-´'''Change file name for another test'''
+`'''Change file name for another test'''
 file = "input_data_ACME_3.txt"
 data = open_txt_file(file)
 result =is_overleap(data)
-print(result)´
+print(result)`
 
